@@ -1,0 +1,24 @@
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+
+export const SIGNUP_REQUEST = 'SIGNUP_REQUEST';
+export const SIGNUP_SUCCESS = 'SIGNUP_SUCCESS';
+export const SIGNUP_ERROR = 'SIGNUP_ERROR';
+
+export const LOGOUT = 'LOGOUT';
+
+export const NEW_BLOG = 'NEW_BLOG';
+//success
+export const EDIT_BLOG = 'EDIT_BLOG'
+//success
+export const DELETE_BLOG = 'DELETE_BLOG'
+// success
+
+export const FETCH_BLOG_LIST = 'FETCH_BLOG_LIST';
+export const FETCH_BLOG_LIST_SUCCESS = 'FETCH_BLOG_LIST_SUCCESS';
+export const FETCH_BLOG_LIST_ERROR = 'FETCH_BLOG_LIST_ERROR';
+
+export const FETCH_BLOG_DETAIL = 'FETCH_BLOG_DETAIL';
+export const FETCH_BLOG_DETAIL_SUCCESS = 'FETCH_BLOG_DETAIL_SUCCESS';
+export const FETCH_BLOG_DETAIL_ERROR = 'FETCH_BLOG_DETAIL_ERROR';
